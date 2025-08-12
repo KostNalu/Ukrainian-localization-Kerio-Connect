@@ -1761,11 +1761,11 @@ kerio.lib.translation = {
 		"Submit 2FA?":"Надіслати 2FA?",
 		"Sync Folders settings saved":"Збережено налаштування синхронізації папки",
 		"Test Notification":"Перевірте повідомлення",
-		"The certificate has to be a .p12 or .pfx file.":"Сертифікат повинен бути файл *.p12 або *.pfx.",
-		"There are unsaved changes.":"Є замасковані зміни.",
+		"The certificate has to be a .p12 or .pfx file.":"Сертифікатом повинен бути файл *.p12 або *.pfx.",
+		"There are unsaved changes.":"Є незбережені зміни.",
 		"Time Zone":"Часовий пояс",
 		"Time format":"Формат часу",
-		"Title":"Титул",
+		"Title":"Заголовок",
 		"Trust senders from my Contact folder":"Довіряйте відправникам з моєї контактної папки",
 		"Unable to initialize Microsoft authorization flow. Make sure you are accessing Webmail via HTTPS.":"Неможливо було запустити потік авторизації Microsoft. Переконайтеся, що ви отримуєте доступ до веб -сайту через HTTPS",
 		"Unable to start 2FA configuration, error code: %1.":"Запустити конфігурацію 2FA, код помилки: %1.",
@@ -1795,8 +1795,8 @@ kerio.lib.translation = {
 			"k_dual": "секунди",
 			"k_plural": "секунди"
 		},
-		"not set":"Не встановлений",
-		"public folder":"Публічна папка",
+		"not set":"не встановлений",
+		"public folder":"публічна папка",
 		"resource":"ресурс"
 	},
 	"settingsAbout": {
